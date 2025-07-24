@@ -1,9 +1,9 @@
-<table style="border:none;">
+<table>
   <tr>
-    <td width="90" valign="middle" style="border:none;">
+    <td width="90" valign="middle">
       <img src="https://github.com/user-attachments/assets/e27693b7-8575-4dcc-8720-8d0f98922954" alt="OMLET" width="80" height="80" />
     </td>
-    <td valign="middle" style="border:none;">
+    <td valign="middle">
       <h1>OMLET</h1>
       <p><strong>Orange Module Library for Essential Tools</strong></p>
     </td>
@@ -29,12 +29,12 @@ Le Hub est une application Windows qui centralise la gestion des compléments :
 
 ---
 
-<table style="border:none;">
+<table>
   <tr>
-    <td width="90" valign="middle" style="border:none;">
+    <td width="90" valign="middle">
       <img src="https://github.com/user-attachments/assets/605f1bdb-971c-4d95-a4c4-f9144a173ecc" alt="OTOP" width="80" height="80" />
     </td>
-    <td valign="middle" style="border:none;">
+    <td valign="middle">
       <h2>Complément PowerPoint (OTOP)</h2>
     </td>
   </tr>

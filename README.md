@@ -1,2 +1,3 @@
-# <img width="50" height="50" alt="OMLET" src="https://github.com/user-attachments/assets/91736a70-92d3-439e-a0d6-40c94afe411d" /> OMLET 
+# <img width="100" height="100" alt="OMLET" src="https://github.com/user-attachments/assets/b79a1383-cafa-492f-b561-e446ee8fbd57" />OMLET 
 Orange Module Library for Essential Tools
+

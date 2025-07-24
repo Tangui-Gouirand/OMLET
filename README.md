@@ -42,7 +42,7 @@ Le Hub est une application Windows qui centralise la gestion des compléments :
 
 Une fois installé, OTOP ajoute un panneau latéral directement dans PowerPoint pour la création de schémas :
 
-- Génération automatique de topologies réseau complexes  
+- Génération automatique de topologies réseau  
 - Importation de données depuis :  
   - Des fichiers de configuration (.txt)  
   - En direct depuis l'outil web WASAC (avec authentification SSO transparente)  

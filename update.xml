@@ -1,6 +1,6 @@
 u<?xml version="1.0" encoding="utf-8"?>
 <item>
   <version>1.0.0.1</version>
-  <url>https://github.com/Tangui-Gouirand/OMLET/releases/download/1.0.0.1/setup.zip</url>
+  <url>https://github.com/Tangui-Gouirand/OMLET/releases/download/1.0.0.1/Release.zip</url>
   <changelog>Ajout du support proxy et vérification de signature</changelog>
 </item>
